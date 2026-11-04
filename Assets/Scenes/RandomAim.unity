@@ -274,19 +274,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 1104325288}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a38ac4b9d024b724489581a82397d49b, type: 3}
+  m_Script: {fileID: 11500000, guid: 82ecc227d893b904aa4c88774d770e69, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Shooting
+  m_EditorClassIdentifier: Assembly-CSharp::Shooting2
   pressButton:
     m_Name: Press Button
     m_Type: 0
     m_ExpectedControlType: 
-    m_Id: 91e67013-bf9c-403e-8c54-c2221b099437
+    m_Id: 79f63051-99e5-4cff-adc9-6a717524aedb
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: b9a18928-d1ca-48cb-a7d4-e47d42a96d84
+      m_Id: 3766c000-0b12-49a4-b1c9-8cc7e517f0ad
       m_Path: <Keyboard>/space
       m_Interactions: 
       m_Processors: 
