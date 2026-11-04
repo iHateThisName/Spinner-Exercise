@@ -83,6 +83,7 @@ public class Spinner : MonoBehaviour {
                 }
 
                 this.determinatedNumber = this.probabilitySettings.SelectRandomNumberBasedOnProbabilitySettings();
+                Debug.Log($"Determined Number: {this.determinatedNumber}");
                 this.spinnerType = SpinnerType.Deterministic;
 
 
